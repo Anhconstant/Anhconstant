@@ -29,7 +29,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo"
+  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
   <img width="12" />
@@ -50,6 +51,6 @@
 
 ###
 
-<h2 align="left">About:</h2>
+<h2 align="left">About my Repo:</h2>
 
 ###
