@@ -52,5 +52,66 @@
 ###
 
 <h2 align="left">About my Repo:</h2>
+<p align="left">
+  
+<h3> &emsp;+ ARM:  </h3>
+  
+ &emsp;&emsp; - Peripheral Driver STM32 using Register ( [Link](https://github.com/Anhconstant/Stm32F103C8.Register) )<br>
+ &emsp;&emsp; - HAL Library for STM32 Microcontroller Programming  ( [Link]( https://github.com/Anhconstant/STM32f103C8_HAL ) )<br>
+ &emsp;&emsp; - STD Library for STM32 Microcontroller Programming  ( [Link]( https://github.com/Anhconstant/STM32F103C8.Standard_Peripheral_Library ) )<br>
+ &emsp;&emsp; - FreeRTOS project ( [Link](https://github.com/Anhconstant/STM32f103C8_HAL/tree/main/FreeRTOS_STM32) )<br>
 
+ 
+<h3> &emsp;+ Debugging tools (ARM) : </h3> 
+
+ &emsp;&emsp; - Develop & Debugging using Pyocd  ( [Link]( https://github.com/Anhconstant/stm32f1_pyocd ) )<br>
+ &emsp;&emsp; - Develop & Debugging using Openocd  ( [Link]( https://github.com/Anhconstant/stm32f1_openocd ) )<br>
+
+ 
+<h3> &emsp;+ ESP32:  </h3>
+
+ &emsp;&emsp; - Develop & Project ESP32 ( [Link]( https://github.com/Anhconstant/ESP32 ) )<br>
+
+ 
+<h3> &emsp;+ Micropython RP2040 & ESP32:  </h3>
+
+ &emsp;&emsp; - ESP32 Project (updating) ( [Link]) <br>
+ &emsp;&emsp; - RP2040 Project (updating) ( [Link]) <br>
+
+ 
+<h3> &emsp;+ STM8:  </h3>
+  
+ &emsp;&emsp; - STM8 Lib using Register (updating) ( [Link]( https://github.com/Anhconstant/STM8 ) )<br>
+ &emsp;&emsp; - STM8 Project (updating) ( [Link] )<br>
+
+ 
+ <h3> &emsp;+ PIC:  </h3>
+  
+ &emsp;&emsp; - PIC16F887 VSCode(updating) ( [Link]( https://github.com/Anhconstant/PIC16F887 ) )<br>
+
+ 
+<h3> &emsp;+ Data Structures and Algorithms:  </h3>
+
+ &emsp;&emsp; - Queue (C) ( [Link](https://github.com/Anhconstant/Queue) ) <br>
+ &emsp;&emsp; - Stack (C) ( [Link] ) <br>
+
+<h3> &emsp;+ VHDL & Verilog :  </h3>
+  
+ &emsp;&emsp; - VHDL & Verilog ( [Link]( https://github.com/Anhconstant/VHDL.Verilog ) )<br> 
+<h3> &emsp;+ Python Programming:  </h3>
+
+ &emsp;&emsp; - Python Programming (updating) ( [Link]) <br>
+
+ 
+<h3> &emsp;+ C/C++ Programming:  </h3>
+
+ &emsp;&emsp; - Leetcode ( [Link](https://github.com/Anhconstant/Leetcode_C.Cpp) ) <br> 
+
+
+<h3> &emsp;+ SDK && HDK:  </h3>
+
+ &emsp;&emsp; - Develop STM32 with kit WeactStudio ( [Link](https://github.com/Anhconstant/STM32f103_kitWeact) )<br>
+
+</p>
 ###
+
