@@ -79,7 +79,7 @@
  &emsp;&emsp; - RP2040 Project (updating) ( [Link]) <br>
 
  
-<h3> &emsp;+ STM8:  </h3>
+<h3> &emsp;+ STM8: 8bit - Harvard architecture  </h3>
   
  &emsp;&emsp; - STM8 Lib using Register (updating) ( [Link]( https://github.com/Anhconstant/STM8 ) )<br>
  &emsp;&emsp; - STM8 Project (updating) ( [Link] )<br>
