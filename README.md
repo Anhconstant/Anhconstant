@@ -89,12 +89,6 @@
   
  &emsp;&emsp; - PIC16F887 VSCode(updating) ( [Link]( https://github.com/Anhconstant/PIC16F887 ) )<br>
 
- 
-<h3> &emsp;+ Data Structures and Algorithms:  </h3>
-
- &emsp;&emsp; - Queue (C) ( [Link](https://github.com/Anhconstant/Queue) ) <br>
- &emsp;&emsp; - Stack (C) ( [Link] ) <br>
-
 <h3> &emsp;+ VHDL & Verilog :  </h3>
   
  &emsp;&emsp; - VHDL & Verilog ( [Link]( https://github.com/Anhconstant/VHDL.Verilog ) )<br> 
@@ -106,7 +100,7 @@
 <h3> &emsp;+ C/C++ Programming:  </h3>
 
  &emsp;&emsp; - Leetcode ( [Link](https://github.com/Anhconstant/Leetcode_C.Cpp) ) <br> 
-
+ &emsp;&emsp; - Data Structures and Algorithms: [Queue in C](https://github.com/Anhconstant/Queue) ; [Stack in C]() <br>
 
 <h3> &emsp;+ SDK && HDK:  </h3>
 
