@@ -77,7 +77,8 @@
  
 <h3> &emsp;+ Micropython RP2040 & ESP32:  </h3>
 
- &emsp;&emsp; - ESP32 Project (updating) ( [Link](https://github.com/Anhconstant/Micropython_ESP32)) <br>
+ &emsp;&emsp; - ESP32 Project: bootloader & OTA ( downloading from github)  ( [Link](https://github.com/Anhconstant/Micropython_ESP32)) <br>
+ &emsp;&emsp; - ESP32 Bootloader: OTA ( downloading from github)  ( [Link](https://github.com/Anhconstant/Micropython_ESP32/tree/main/bootloader)) <br>
  &emsp;&emsp; - RP2040 Project (updating) ( [Link]) <br>
 
  
