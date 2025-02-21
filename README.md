@@ -26,7 +26,8 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src
+="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
@@ -76,7 +77,7 @@
  
 <h3> &emsp;+ Micropython RP2040 & ESP32:  </h3>
 
- &emsp;&emsp; - ESP32 Project (updating) ( [Link]) <br>
+ &emsp;&emsp; - ESP32 Project (updating) ( [Link](https://github.com/Anhconstant/Micropython_ESP32)) <br>
  &emsp;&emsp; - RP2040 Project (updating) ( [Link]) <br>
 
  
