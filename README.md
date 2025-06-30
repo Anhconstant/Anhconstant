@@ -108,7 +108,7 @@
  &emsp;&emsp; - Leetcode ( [Link](https://github.com/Anhconstant/Leetcode_C.Cpp) ) <br> 
  &emsp;&emsp; - Data Structures and Algorithms: [Queue in C](https://github.com/Anhconstant/Queue) ; [Stack in C]() <br>
 
-<h3> &emsp;+ SDK && HDK:  </h3>
+<h3> &emsp;+ SDK && HDK ref:  </h3>
 
  &emsp;&emsp; - Develop STM32 with kit WeactStudio ( [Link](https://github.com/Anhconstant/STM32f103_kitWeact) )<br>
 
